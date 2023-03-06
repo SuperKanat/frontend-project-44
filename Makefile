@@ -1,5 +1,5 @@
-install: install-deps
-	npx simple-git-hooks
+install:
+	npi ci
 
 brain-games:
 	node bin/brain-games.js
