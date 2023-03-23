@@ -3,7 +3,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/ae8b435447f24a9052fe/maintainability)](https://codeclimate.com/github/SuperKanat/frontend-project-44/maintainability)
 
-Игра: "Проверка на четность"
-Описание игры: Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
-Запуск игры: brain-even
-https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9
+### Brain Even
+    $ brain-even
+[![asciicast](https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9.svg)](https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9)
