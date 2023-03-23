@@ -8,4 +8,4 @@
 Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
 
 Запуск игры: <span> <strong>brain-even</strong></span>
-<a href="https://asciinema.org/a/537764" target="_blank"><img src="https://asciinema.org/a/537764.svg" /></a>n
+<a href="https://asciinema.org/a/537764" target="_blank"><img src="https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9" /></a>n
