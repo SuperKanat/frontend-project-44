@@ -5,8 +5,4 @@
 
 ### Brain Even
     $ brain-even
-<<<<<<< HEAD
 [![asciicast](https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9.svg)](https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9)
-=======
-[![asciicast](https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9.svg)](https://asciinema.org/a/uNsiu8m56JNxAd1KSNw3ejxP9)
->>>>>>> refs/remotes/origin/main
